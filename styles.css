@@ -259,6 +259,7 @@ header .logo{
 
 .sectionvideo video{
     width: 50%
+    height: auto;
 }
 
 .section2{
